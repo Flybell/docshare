@@ -3,10 +3,16 @@ this is a document you can edit.
 
 controversial opinion:
 
+omg look i changed it
+right in the middle!
+
 apropos of sloterdijk/doctorow/miller:
 
 space travel is politics is ouija boards,
-and that is all an enactment of being
+and that is all the enactment of being
 a helpless nascent human.
+
+and i changed some other stuff
+wow!
 
 So I somehow (1) forked the original file, (2) cloned it in the desktop Git, and (3) created an upstream branch, that I am now (4) editing. 
